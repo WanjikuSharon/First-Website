@@ -1,2 +1,82 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<! DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- <link rel="stylesheet" href="styles.css"> external css -->
+<style>
+  body {background-color: powderblue;}
+  .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa:hover {
+    opacity: 0.7;
+  }
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+.fa-reddit {
+  background: #ff5700;
+  color: white;
+}
+
+</style>
+<title>SHARON WANJIKU BLOG</title>
+</head>
+<body>
+<main>
+      <h1>My BLOG</h1>
+
+      <section>
+        <h2>INTRO</h2>
+        <h2>Social Media platform</h2>
+        <a href="https://www.facebook.com/profile.php?id=100067133141301" class="fa fa-facebook"></a>
+        <a href="https://twitter.com/anonymous_gash" class="fa fa-twitter"></a>
+        <a href="https://www.linkedin.com/in/sharon-wanjiku-10b59b232" class="fa fa-linkedin"></a>
+        <img src="/C:/Users/sally/Desktop/ss/me pic/SHARON.jpg" alt="me" width="400" height="600">
+      </section>
+      <section>
+        <h2>SKILLS LIST</h2>
+        <ul>
+          <li>Software Testing</li>
+          <li>Web Development</li>
+          <li>Project Management</li>
+          <li>Database Administration</li>
+        </ul>
+        <figure>
+          <img src="/C:/Users/sally/Desktop/ss/me pic/shik.jpg" alt="Official profile." width="400" height="500">
+          <figcaption>sharon <em>analytical</em> thinker.</figcaption>  
+        </figure>
+        <h3>Work Experience:</h3>
+        <ol>
+          <li>KCA University Elearning Support specialist</li>
+        </ol>
+      </section>
+</body>
+</html>
